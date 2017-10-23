@@ -1,13 +1,13 @@
 class: center, middle
 
-# 讲义题目
+# Myself
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 刘杨洛融 (oblivion@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/oblivecl
 
 ---
 
