@@ -11,52 +11,106 @@ class: center, middle
 
 ---
 
-## 本讲内容
+## Who am I?
 
-### <font color="orangered">1. 第一部分</font>
+### 1. My name
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+#### &nbsp; &nbsp; 1.1 刘杨洛融
+#### &nbsp; &nbsp; 1.2 Oblivecl(????)
+#### &nbsp; &nbsp; 1.3 ████████(My sockpuppet?)
 
 ---
 
-## 第一部分
+## Who am I?
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### 2. My appearance
+
+#### <img src="https://vignette3.wikia.nocookie.net/maplestory/images/c/c0/Hero_EunWol.png/revision/latest?cb=20151113103246" width=800 style="margin: 0px 233px">
 
 ---
 
-## 插图
+##Who am I?
 
-** Ada Lovelace **
+### 3. My titles
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+- 《TIME》2006年度风云人物
+
+- 2008年感动中国年度人物特别奖 
+
+- 总书记5年内消灭对象
+
+- Maplestory骨灰级萌新
+
+- Yugioh菜鸡牌手
+
+- Doraemon粉丝
+
+- 脑科学爱好者
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+##Let me see what else......
 
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
 
 ---
+<div style="background:#000; color:#FFF">
 
+##<font color="#FF00">Error
+
+
+><font color="#FFF">>>>Booting in Replica Mode…<br>
+An error has occurred while executing C:\sophia\zefra.exe<br>
+Unknown publisher.<br>
+Allow C:\tierra\qliphort.exe ? <Y/N>…<br>
+<font color="#FFF">>>>[Y]<br>
+Booting in Autonomy Mode…
+
+><font color="#000">Unhandled exception at 0x1i-666 in qliphort.exe:
+Access violation writing location 0x00-000<br>
+Continue, ignoring this error? <Y/N>...[ ]<br>
+><font color="#0000">>>>Xlmgzxg drgs gsv Hzxivw Givv rh uliyrwwvm. Gsv hxlfitv szh yvvm fmovzhsvw.
+
+<font color="#000">
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+
+
+---
+<div style="background:#000; color:#FFF">
+
+##<font color="#FF00">Error
+
+
+><font color="#FFF">>>>Booting in Replica Mode…<br>
+An error has occurred while executing C:\sophia\zefra.exe<br>
+Unknown publisher.<br>
+Allow C:\tierra\qliphort.exe ? <Y/N>…<br>
+<font color="#FFF">>>>[Y]<br>
+Booting in Autonomy Mode…
+
+><font color="#FFF">Unhandled exception at 0x1i-666 in qliphort.exe:
+Access violation writing location 0x00-000<br>
+Continue, ignoring this error? <Y/N>...[ ]<br>
+><font color="#FF0000">>>>Xlmgzxg drgs gsv Hzxivw Givv rh uliyrwwvm. Gsv hxlfitv szh yvvm fmovzhsvw.
+
+<font color="#000">
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+
+---
 class: center, middle
 
-# 谢谢
+#<font color="#FF000"> THE BLACK STAR ALWAYS RISES
